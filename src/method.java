@@ -24,9 +24,9 @@ public class method {
     //method Q1:
     public static int Smallest(int num1, int num2, int num3) {
         int min = num1;
-        if (num1< min) {
+        if (num2< min) {
             min =num1;
-        }if (num2 < min) {
+        }if (num3 < min) {
             min =num2;
         }
         return min;
